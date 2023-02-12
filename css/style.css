@@ -1,0 +1,34 @@
+*
+{
+    margin: 5px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+button {
+    border-radius: 5px;
+    padding: 5px;
+}
+
+#budget {
+    position: absolute;
+    right: 10vw;
+}
+
+li {
+    border: 1px solid black;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+.container {
+    display: flex;
+}
+
+.employees {
+    flex: 1;
+}
+
+.company {
+    flex: 1;
+}
